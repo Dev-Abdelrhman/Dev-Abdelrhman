@@ -45,18 +45,6 @@ Architecture : MVC, Modular Design, Monorepo (Lerna + pnpm)
 
 ---
 
-### 💖 Support
-
-If you find my work helpful or inspiring, drop a ⭐ — it keeps the motivation alive.
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/abdelrhmanfawzy" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <i>Crafted by <a href="https://abdelrhman-fawzy.vercel.app" target="_blank">Abdelrhman Fawzy</a> — turning backend logic into real-world impact.</i>
 </p>
